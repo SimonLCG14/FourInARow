@@ -10,8 +10,9 @@ namespace FourInARow
         private static readonly char playingSymbol = '#';
         static void Main(string[] args)
         {
+            
             int playingCounter = 1;
-            int userMove = 0;
+            int userMove;
 
             PrintField();
 

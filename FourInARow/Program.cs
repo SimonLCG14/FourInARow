@@ -12,7 +12,7 @@ namespace FourInARow
         {
             
             int playingCounter = 1;
-            int userMove;
+            int userMove = 0;
 
             PrintField();
 
